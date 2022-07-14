@@ -53,6 +53,14 @@ button{
         align-items: center;
         text-align: center;
     }
+         button{
+    padding: 15px 20px;
+    border: none;
+    border-radius:10px 10px 10px 10px;
+    background: rgb(221, 25, 90);
+    cursor: pointer;
+    color:beige;
+}
     
 }
 @media screen and (max-width: 540px) {
@@ -75,6 +83,14 @@ button{
         align-items: center;
         text-align: center;
     }
+         button{
+    padding: 15px 20px;
+    border: none;
+    border-radius:10px 10px 10px 10px;
+    background: rgb(221, 25, 90);
+    cursor: pointer;
+    color:beige;
+}
     
 }
 @media screen and (max-width: 414px) {
@@ -97,5 +113,13 @@ button{
         align-items: center;
         text-align: center;
     }
+         button{
+    padding: 15px 20px;
+    border: none;
+    border-radius:10px 10px 10px 10px;
+    background: rgb(221, 25, 90);
+    cursor: pointer;
+    color:beige;
+}
     
 }
