@@ -15,7 +15,7 @@
     width: 550px;
     padding: 40px;
     color: beige;
-    background: rgb(221, 25, 90);
+    background: #1f363dff;
     font-size: 2rem;
     border-radius: 8px 8px 0 0;
 }
@@ -30,7 +30,7 @@ button{
     padding: 15px 25px;
     border: none;
     border-radius:10px 10px 10px 10px;
-    background: #d8e1ffff;
+    background: #1f363dff;
     cursor: pointer;
     color:beige;
 }
