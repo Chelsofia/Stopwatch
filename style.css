@@ -1,5 +1,5 @@
 *{
-    background-color: black;
+    background-color: #be92a2ff;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .app{
@@ -23,14 +23,14 @@
     text-align: center;
     width: 550px;
     padding:40px;
-    background: beige;
+    background: #d8e1ffff;
     border-radius: 0 0 8px 8px;
 }
 button{
     padding: 15px 25px;
     border: none;
     border-radius:10px 10px 10px 10px;
-    background: rgb(221, 25, 90);
+    background: #d8e1ffff;
     cursor: pointer;
     color:beige;
 }
